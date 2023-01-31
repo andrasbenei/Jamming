@@ -10,12 +10,7 @@ This is a React app that I created during my Front-End Developer course on Codec
 - Search: once logged in, the Users can search for songs on Spotify via Jamming.
 - Create a new list: The Users can add or remove songs to/from their list. They can also name this new list.
 - Save list: the Users can add the newly created list to their Spotify account.
+- The Users can check and modify their existing lists.
 
-## Improvement ideas
-
-- Display all the existing playlists of the Users.
-- Let the Users select one of the existing lists. The Users should see the list's name and its tracks.
-- Let the Users modify the existing lists.
-- Let the Users save the modified list.
 
 
